@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class TiposVariaveis {
     /**
      * //
@@ -60,4 +62,32 @@ public class TiposVariaveis {
     //}
         
 
+    //public static void main(String[] args) {
+        //String nome1 = "Registro Completo";
+        //String nome2 = "Registro Incompleto";
+        //int numero1 = 7;
+        //int numero2 = 1;
+            //if (numero1<numero2) {System.out.println("Condição Verdadeira");
+                
+            //} else { System.out.println("Condição Incorreta");
+                
+            //}
+        //}
+         //tabuada
+        //public static void main(String[] args) {
+          //  Scanner ler = new Scanner(System.in);
+
+        //int i, n;
+
+        //System.out.printf("Informe o número para a tabuada:\n");
+        //n = ler.nextInt(); // 3.1 entrada de dados (lendo um valor inteiro)
+
+        //System.out.printf("\n+--Resultado--+\n");
+        //for (i=1; i<=10; i++) {
+           // System.out.printf("| %2d * %d = %2d |\n", i, n, (i*n));
+        //}
+       // System.out.printf("+-------------+\n");     
+        //}
+
+            
 }
